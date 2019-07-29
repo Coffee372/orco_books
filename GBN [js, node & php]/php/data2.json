@@ -1,0 +1,5 @@
+[
+    "The concept of execution context, referred to as context for simplicity, is of the utmost importance in JavaScript.\n",
+    "Certain statements cause a temporary addition to the front of the scope chain that is later removed after code execution.\n",
+    "In JavaScript, however, the variable declaration adds a variable into the current execution context (the global context, in this case).\n"
+]

@@ -1,0 +1,1 @@
+This theme was formely known as Industry 
